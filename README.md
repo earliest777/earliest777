@@ -18,13 +18,10 @@ Technology
 -- Video Streaming Protocol (HLS, RTMP, RTSP, RTP)
 -- VoIP (Asterisk, FreePBX)
 </p>
-
-
 <h2>🥇My Major Skills</h2>
-✔ C/C++, Qt Framework, QML • Python • Shell Scripting • Player Development • Google Cloud Platform (GCP) •
+✔ C/C++, Qt Framework, QML • Python • Shell Scripting • Player Development • Google Cloud Platform (GCP) • <br>
 
-✔ Amazon Simple Notification Service (SNS) • Amazon EC2 • AWS Lambda • AWS Elemental • AWS Elemental
+✔ Amazon Simple Notification Service (SNS) • Amazon EC2 • AWS Lambda • AWS Elemental • AWS Elemental • <br>
 
-✔ MediaConnect • AWS Elemental MediaLive • AWS Elemental MediaConvert • AWS Elemental MediaPackage • AWS
-<br>
+✔ MediaConnect • AWS Elemental MediaLive • AWS Elemental MediaConvert • AWS Elemental MediaPackage • AWS <br>
 </p>
