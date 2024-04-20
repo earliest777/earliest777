@@ -26,6 +26,5 @@ Technology
 ✔ Amazon Simple Notification Service (SNS) • Amazon EC2 • AWS Lambda • AWS Elemental • AWS Elemental
 
 ✔ MediaConnect • AWS Elemental MediaLive • AWS Elemental MediaConvert • AWS Elemental MediaPackage • AWS
-
 <br>
 </p>
