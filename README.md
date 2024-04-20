@@ -2,8 +2,8 @@
 
 <h3 align='center'>
  ✨ Senior Full Stack Developer | Live Streaming | DevOps
-</h4>
-📜 About me:
+</h3>
+<h4> 📜 About me: </h4>
 <p>
 Dear Everyone! This is 9+ years of senior software engineer focused on Live Streaming and DevOps Solution. <br>
 Service Programming <br>
